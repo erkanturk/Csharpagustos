@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="01_Algoritma/01_Algoritma.csproj" />
+  <Project Path="02_Degiskenler/02_Degiskenler.csproj" Id="bee47ef9-bc2c-4732-b26c-54a70d96ff67" />
+  <Project Path="03_Operators/03_Operators.csproj" Id="aad47206-d5cf-4d9c-ad11-811deab46641" />
+  <Project Path="04_TurDonusumu/04_TurDonusumu.csproj" Id="158d1412-c0d7-49c8-9af3-d4017e8e21b3" />
+  <Project Path="05_If_Else/05_If_Else.csproj" Id="d224648b-0ced-4ed5-a532-7efbe40a0696" />
+  <Project Path="05_If_Else_2/05_If_Else_2.csproj" Id="192522ce-6090-4043-8ca4-411bd191502a" />
+  <Project Path="05_If_Else_3/05_If_Else_3.csproj" Id="f6168c8b-dd4a-4e85-84ea-aab8af48894b" />
+  <Project Path="06_Random/06_Random.csproj" Id="9d5a5e4c-ca83-499c-9ede-2a5b0b8dbdd9" />
+  <Project Path="07_OdevCozum/07_OdevCozum.csproj" Id="2c28a65c-2929-4de4-ad0a-8881de578127" />
+  <Project Path="08_Switch_Case/08_Switch_Case.csproj" Id="cc5f04d6-d34c-4f9b-bd6e-27ff4bfdaef7" />
+  <Project Path="08_Switch_Case_2_OdevCozum/08_Switch_Case_2_OdevCozum.csproj" Id="9f765e4b-0522-425d-84e6-b510d8548263" />
+  <Project Path="09_TryCatch/09_TryCatch.csproj" Id="57d5fbf3-1ea6-4638-a316-359a4397f67e" />
+  <Project Path="10_Donguler_2_Do_While/10_Donguler_2_Do_While.csproj" Id="f2ff417e-aa14-494c-84e2-96c62a39611a" />
+  <Project Path="10_Donguler_For/10_Donguler_For.csproj" Id="4beb3695-5f58-4123-b257-61fb895e12c1" />
+</Solution>
