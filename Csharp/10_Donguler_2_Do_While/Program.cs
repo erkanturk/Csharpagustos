@@ -30,18 +30,30 @@
             //Kullanıcı 0 girene kadar girdiği tüm sayıları toplasın
             //eğer kullanıcı 0 a basarsa girdiği sayıların toplamı ekrana yazdırılsın
             //if else kullanılmayacak.
-            int sayi;
-            int toplam=0;
-            int sayac = 1;
+            //int sayi;
+            //int toplam = 0;
+            //int sayac = 1;
+            //do
+            //{
+            //    Console.WriteLine($"{sayac}.Sayıyı giriniz");
+            //    sayi = Convert.ToInt32(Console.ReadLine());
+            //    toplam += sayi;
+            //    sayac++;
+            //} while (sayi != 0);
+            //Console.WriteLine(toplam);
+
+            // 300 den başlıyarak  7 ye tam bölünen çift sayıları ekrana yazdıran döngü
+            int s = 300;
             do
             {
-                Console.WriteLine($"{sayac}.Sayıyı giriniz");
-                sayi = Convert.ToInt32(Console.ReadLine());
-                toplam += sayi;
-                sayac++;
-            } while (sayi != 0);
-            Console.WriteLine(toplam);
-           
+                if (s % 7 == 0 && s % 2 == 0)
+                {
+                    Console.WriteLine(s);
+                }
+                s--;
+                Console.WriteLine("test");
+            } while (s!=0);
+            Console.WriteLine();
         }
     }
 }

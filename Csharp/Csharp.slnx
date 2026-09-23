@@ -11,6 +11,8 @@
   <Project Path="08_Switch_Case/08_Switch_Case.csproj" Id="cc5f04d6-d34c-4f9b-bd6e-27ff4bfdaef7" />
   <Project Path="08_Switch_Case_2_OdevCozum/08_Switch_Case_2_OdevCozum.csproj" Id="9f765e4b-0522-425d-84e6-b510d8548263" />
   <Project Path="09_TryCatch/09_TryCatch.csproj" Id="57d5fbf3-1ea6-4638-a316-359a4397f67e" />
+  <Project Path="10_Donguler_1_For/10_Donguler_1_For.csproj" Id="ce382f0f-656a-48b6-a419-c25fcd02f44b" />
   <Project Path="10_Donguler_2_Do_While/10_Donguler_2_Do_While.csproj" Id="f2ff417e-aa14-494c-84e2-96c62a39611a" />
-  <Project Path="10_Donguler_For/10_Donguler_For.csproj" Id="4beb3695-5f58-4123-b257-61fb895e12c1" />
+  <Project Path="10_Donguler_3_While/10_Donguler_3_While.csproj" Id="505b14d5-8462-4198-bd06-10ce028aead5" />
+  <Project Path="11_Arrays/11_Arrays.csproj" Id="9205bfa4-13d0-490e-9b16-6ae7e670a11a" />
 </Solution>

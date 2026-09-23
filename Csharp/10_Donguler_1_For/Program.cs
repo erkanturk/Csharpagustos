@@ -1,6 +1,6 @@
 ﻿using System.Threading.Channels;
 
-namespace _10_Donguler_For
+namespace _10_Donguler_1_For
 {
     internal class Program
     {
