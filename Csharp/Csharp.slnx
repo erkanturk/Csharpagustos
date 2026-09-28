@@ -14,5 +14,7 @@
   <Project Path="10_Donguler_1_For/10_Donguler_1_For.csproj" Id="ce382f0f-656a-48b6-a419-c25fcd02f44b" />
   <Project Path="10_Donguler_2_Do_While/10_Donguler_2_Do_While.csproj" Id="f2ff417e-aa14-494c-84e2-96c62a39611a" />
   <Project Path="10_Donguler_3_While/10_Donguler_3_While.csproj" Id="505b14d5-8462-4198-bd06-10ce028aead5" />
+  <Project Path="10_Donguler_4_OdevCozum/10_Donguler_4_OdevCozum.csproj" Id="400121af-5873-4d87-a8d0-32765efcc7e4" />
   <Project Path="11_Arrays/11_Arrays.csproj" Id="9205bfa4-13d0-490e-9b16-6ae7e670a11a" />
+  <Project Path="12_OtomatProjesi/12_OtomatProjesi.csproj" Id="1fad9836-42fc-4aa9-9462-5037685be5a6" />
 </Solution>

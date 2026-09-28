@@ -124,7 +124,8 @@
 
             #endregion
 
-            string[] sehirler = { "İzmir", "Adana", "İstanbul", "Amasya", "Tokat", "Sivas", "Yozgat", "Bursa", "Samsun", "Trabzon","Yozgat","Adana","Yozgat" };
+            //string[] sehirler = { "İzmir", "Adana", "İstanbul", "Amasya", "Tokat", "Sivas", "Yozgat", "Bursa", "Samsun", "Trabzon", "Yozgat", "Adana", "Yozgat" };
+            //int[] sayilar = { 200, 10, 90, 1, 3, 5, 7, 4, 6 };
             #region Array Methodlar
             #region Clear
             //// var olan dizideki tüm elemanları temizler
@@ -157,10 +158,10 @@
             //Console.WriteLine(index);//-1 olmayan index değeridir.
             //Console.WriteLine(sehirler[index]);
             //Console.WriteLine(index2);
-            int lastIndex = Array.LastIndexOf(sehirler, "Yozgat");//diziye sondan bakarak indexleri getirir.
-            int lastIndex2 = Array.LastIndexOf(sehirler, "Yozgat", 9);
-            Console.WriteLine(lastIndex);
-            Console.WriteLine(lastIndex2);
+            //int lastIndex = Array.LastIndexOf(sehirler, "Yozgat");//diziye sondan bakarak indexleri getirir.
+            //int lastIndex2 = Array.LastIndexOf(sehirler, "Yozgat", 9);
+            //Console.WriteLine(lastIndex);
+            //Console.WriteLine(lastIndex2);
 
             //for (int i = 0; i < sehirler.Length; i++)
             //{
@@ -169,20 +170,171 @@
             //        Console.WriteLine(sehirler[i]+" indexleri "+i);
             //    }
             //}
-            
+
             #endregion
             #region Sort&&Reverse
+            //foreach (int item in sayilar)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            ////Array.Sort(sayilar);//Küçükten büyüğe sıralama yapar 
+            ////Array.Sort(sehirler);//A dan Z ye sıralama yapar.
+            //Array.Reverse(sayilar);//Var olan mevcut yapıyı tersine çevirir.
+            //Array.Reverse(sehirler);
+            //Console.WriteLine("**********");
+            //foreach (int item in sayilar)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Console.WriteLine("**********");
+            //foreach (string item in sehirler)
+            //{
+            //    Console.WriteLine(item);
+            //}
             #endregion
             #region Contains
+            //bool varMi = sehirler.Contains("Yozgat");//varsa True Yoksa false
+            //Console.WriteLine(varMi);
+            //string var = sehirler.Contains("Artvin") ? "Var" : "Yok";
+            //Console.WriteLine(var);
+            //if (sehirler.Contains("Yozgat"))
+            //{
+            //    Console.WriteLine("Var");
+            //}
+
             #endregion
             #region Resize
+            //int[] sayilar = new int[0];
+
+            //Array.Resize(ref sayilar, sayilar.Length + 1);
+            ////Array.Resize(ref sayilar, sayilar.Length + 1);
+            ////Array.Resize(ref sayilar, sayilar.Length + 1);
+            ////Array.Resize(ref sayilar, sayilar.Length + 1);
+            ////Array.Resize(ref sayilar, sayilar.Length + 1);
+            ////Array.Resize(ref sayilar, sayilar.Length + 10);
+            ////Array.Resize(ref sayilar, 8);
+            //sayilar[0] = 1;
+            //sayilar[1] = 10;
+            //sayilar[2] = 100;
+            //sayilar[3] = 1000;
+            //sayilar[4] = 10000;
+            //sayilar[5] = 100000;
+            //foreach (var item in sayilar)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Array.Resize(ref sayilar, sayilar.Length - 1);
+            //foreach (var item in sayilar)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            // Out
+            //string[] meyveler = { "elma", "armut", "muz" };
+            //for (int i = 0; i < meyveler.Length; i++)
+            //{
+            //    Console.WriteLine(i+" "+ meyveler[i] );
+            //}
+            //Console.WriteLine("Bir meyve giriniz");
+            //string meyve = Console.ReadLine().ToLower();
+            //if (int.TryParse(meyve, out int meyveNo))
+            //{
+            //    if (meyveNo == 0)
+            //    {
+            //        Console.WriteLine("Elma Aldınız");
+            //    }
+            //    else if (meyveNo == 1)
+            //    {
+            //        Console.WriteLine("Armut Aldınız");
+            //    }
+            //    else if (meyveNo == 2)
+            //    {
+            //        Console.WriteLine("Muz Aldınız");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Olmayan değer");
+            //    }
+            //}
+            //else
+            //{
+            //    if (meyve == "elma")
+            //    {
+            //        Console.WriteLine("Elma Aldınız");
+            //    }
+            //    else if (meyve == "armut")
+            //    {
+            //        Console.WriteLine("Armut Aldınız");
+            //    }
+            //    else if (meyve == "muz")
+            //    {
+            //        Console.WriteLine("muz Aldınız");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("olmayan meyve");
+            //    }
+
+            //}
+
             #endregion
-            #region 
+
             #endregion
-            #region 
-            #endregion
-            #region 
-            #endregion
+            #region  Örnek
+            // Kullanıcıdan kelime girmesini isteyelim
+            //Kullanıcının girdiği metinde ki her harfi tek tek diziye aktaralım 
+            //ve aktarılan harfleri z den a ya yazdıralım
+
+            //Console.WriteLine("Bir metin giriniz");
+            //string metin = Console.ReadLine();
+            //char[] harfler = new char[metin.Length];
+            //for (int i = 0; i < harfler.Length; i++)
+            //{
+            //    harfler[i] = metin[i];
+            //}
+            //Array.Sort(harfler);
+            //Array.Reverse(harfler);
+            //foreach (char item in harfler)
+            //{
+            //    Console.WriteLine(item+"=>"+(int)item);
+            //}
+
+            //Kullanıcıdan minimumn 10 sayı girmesini isteyelim dizinin miktarını yani kullanıcı belirlesin
+            //Örneğin kullanıcı 15 dedi 15 sayı girecek ve bu d sayılar diziye aktarılacak
+            //dizideki girilen sayıların çiftlerini ve teklerini ayrı ayrı toplayıp ekrana yazdıralım.
+            //isteğe bağlı ortalama bulunabilir.
+
+            Console.WriteLine("10 veya daha büyük bir sayı giriniz");
+            int miktar = Convert.ToInt32(Console.ReadLine());
+            int[] dizi = new int[miktar];
+
+            int tekToplam = 0, ciftToplam = 0, tekIndex = 0, ciftIndex = 0;
+
+            for (int i = 0; i < dizi.Length; i++)
+            {
+                Console.WriteLine($"{i + 1}.Sayıyı giriniz");
+                dizi[i] = Convert.ToInt32(Console.ReadLine());
+
+            }
+            foreach (int item in dizi)
+            {
+                if (item % 2 == 0)
+                {
+                    ciftToplam += item;
+                    ciftIndex++;
+                }
+                else
+                {
+                    tekToplam += item;
+                    tekIndex++;
+                }
+            }
+
+            Console.WriteLine($"Tek Toplam:{tekToplam} ortalama {tekToplam/tekIndex}");
+            Console.WriteLine($"Çift Toplam:{ciftToplam} ortalama {ciftToplam/ciftIndex}");
+            Console.WriteLine($"ortalama {(tekToplam+ciftToplam)/dizi.Length}");
+
+
+
             #endregion
         }
     }
