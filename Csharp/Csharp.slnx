@@ -19,4 +19,5 @@
   <Project Path="12_OtomatProjesi/12_OtomatProjesi.csproj" Id="1fad9836-42fc-4aa9-9462-5037685be5a6" />
   <Project Path="13_Methods_1_Void/13_Methods_1_Void.csproj" Id="11f58908-f7dc-4aa9-8584-f9462eb81054" />
   <Project Path="13_Methods_2_Void/13_Methods_2_Void.csproj" Id="ad737a75-ed08-4c0f-8084-fc56c1017ea3" />
+  <Project Path="14_Etut/14_Etut.csproj" Id="cdb1ecd6-c874-4802-9833-18f962b05d21" />
 </Solution>
