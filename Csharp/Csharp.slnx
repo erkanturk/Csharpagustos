@@ -23,5 +23,8 @@
   <Project Path="13_Methods_4_Return/13_Methods_4_Return.csproj" Id="95f18c5d-63d6-47e4-86bb-4df39f200857" />
   <Project Path="13_Methods_5_OverLoad/13_Methods_5_OverLoad.csproj" Id="7aa1900d-51da-414c-b371-03887e15316c" />
   <Project Path="13_Methods_6_Optional/13_Methods_6_Optional.csproj" Id="dccb7877-2cc1-41d0-89f8-7a52b8de4765" />
+  <Project Path="13_Methods_7_Params/13_Methods_7_Params.csproj" Id="bd895032-0c39-42f3-9019-d0939e803171" />
+  <Project Path="13_Methods_8_Out_Ref/13_Methods_8_Out_Ref.csproj" Id="d3e22daa-40d6-434b-a12f-8846b1f42003" />
+  <Project Path="13_Methods_9_Recursive/13_Methods_9_Recursive.csproj" Id="0cbe10bd-5a80-4cfc-88e6-6756a935e3b3" />
   <Project Path="14_Etut/14_Etut.csproj" Id="cdb1ecd6-c874-4802-9833-18f962b05d21" />
 </Solution>
