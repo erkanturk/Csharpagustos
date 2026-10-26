@@ -34,4 +34,6 @@
   <Project Path="16_ManavOtomasyon/16_ManavOtomasyon.csproj" Id="62648ba6-6185-47f5-8b04-3d6a549051ef" />
   <Project Path="17_Queue/17_Queue.csproj" Id="b2ffc24e-6e5d-4d93-81a9-46845da0552a" />
   <Project Path="18_Stack/18_Stack.csproj" Id="c370e156-df13-4e27-a1d8-3b979b05227f" />
+  <Project Path="19_SortedList/19_SortedList.csproj" Id="4e15c24d-734a-45d1-9042-af382e0e37ce" />
+  <Project Path="20_HashTable/20_HashTable.csproj" Id="81241199-d1c4-499e-80a5-e9f3f61c46c8" />
 </Solution>
