@@ -36,4 +36,7 @@
   <Project Path="18_Stack/18_Stack.csproj" Id="c370e156-df13-4e27-a1d8-3b979b05227f" />
   <Project Path="19_SortedList/19_SortedList.csproj" Id="4e15c24d-734a-45d1-9042-af382e0e37ce" />
   <Project Path="20_HashTable/20_HashTable.csproj" Id="81241199-d1c4-499e-80a5-e9f3f61c46c8" />
+  <Project Path="21_List/21_List.csproj" Id="147dc185-26d2-4baf-8e3d-aa0afd863ce6" />
+  <Project Path="21_List_2/21_List_2.csproj" Id="7946cea7-5817-44ee-a71f-b379bcb6a8df" />
+  <Project Path="22_Class_Object/22_Class_Object.csproj" Id="df421771-6c9f-4581-92c9-c268f3d7c73a" />
 </Solution>
