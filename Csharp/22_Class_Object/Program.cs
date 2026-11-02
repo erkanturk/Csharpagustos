@@ -20,6 +20,14 @@
              * 
              */
             #endregion
+            Ogrenci ogrenci = new Ogrenci();
+            //ogrenci sınıfının tüm üyeleri private olduğu için burada kullanamayız.
+
+            Ogretmen ogretmen = new Ogretmen();
+            ogretmen.OgretmenAd = "Erkan";
+            ogretmen.OgretmenSoyad = "Türk";
+            ogretmen.OgretmenNo = 123;
+            ogretmen.OgretmenBilgileri();
         }
     }
 }

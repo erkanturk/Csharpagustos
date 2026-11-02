@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\22_Class_Object\22_Class_Object.csproj" />
+  </ItemGroup>
+
 </Project>
