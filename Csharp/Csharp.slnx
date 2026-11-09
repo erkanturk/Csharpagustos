@@ -44,4 +44,7 @@
   <Project Path="24_Constructor/24_Constructor.csproj" Id="cee54c62-50ff-4ae4-8378-d36e6e2540e2" />
   <Project Path="24_Constructor_2/24_Constructor_2.csproj" Id="e8db2de6-703a-4951-9e26-d9c8cb1a606a" />
   <Project Path="24_Constructor_3_Readonly/24_Constructor_3_Readonly.csproj" Id="3b8ec080-9f10-4514-afa7-083270822545" />
+  <Project Path="24_Constructor_4/24_Constructor_4.csproj" Id="115c1c45-eec5-4b73-86c7-c0008c2d6166" />
+  <Project Path="25_Encapsulation/25_Encapsulation.csproj" Id="3599a2e7-7a20-45e0-9557-af9ea11178b7" />
+  <Project Path="25_Encapsulation_2/25_Encapsulation_2.csproj" Id="1cee31f1-f0ad-4fbe-b3ab-9a2dd87b6645" />
 </Solution>
