@@ -47,4 +47,8 @@
   <Project Path="24_Constructor_4/24_Constructor_4.csproj" Id="115c1c45-eec5-4b73-86c7-c0008c2d6166" />
   <Project Path="25_Encapsulation/25_Encapsulation.csproj" Id="3599a2e7-7a20-45e0-9557-af9ea11178b7" />
   <Project Path="25_Encapsulation_2/25_Encapsulation_2.csproj" Id="1cee31f1-f0ad-4fbe-b3ab-9a2dd87b6645" />
+  <Project Path="27_Inheritance/27_Inheritance.csproj" Id="e8fcd3bd-3375-4c9f-92d1-6af1579edaf6" />
+  <Project Path="27_Inheritance_2/27_Inheritance_2.csproj" Id="5e6319fa-ce9d-44d1-bce5-4e256a09145c" />
+  <Project Path="27_Inheritance_3/27_Inheritance_3.csproj" Id="10261054-fd07-4adf-a9f4-82649304bc74" />
+  <Project Path="28_PartialClass/28_PartialClass.csproj" Id="e53e0999-6a12-4b88-9a5e-64215859da5d" />
 </Solution>
